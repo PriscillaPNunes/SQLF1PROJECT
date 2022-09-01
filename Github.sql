@@ -9,4 +9,4 @@ AS
 
 -- Como Testar/ Visualizar a View
 SELECT * 
-FROM vResultadoDetalhado
+FROM vViewTabela 
